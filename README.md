@@ -1,5 +1,6 @@
 # Calistic-Stealer
 ![giphy](https://github.com/Calistic101/Calistic-Stealer/assets/141461695/3921b22a-ee3b-405d-a497-ac8cbfe35dd9)
+
 Free, Open-Source Stealer for Windows.
 
 Calistic Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.
